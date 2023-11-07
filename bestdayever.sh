@@ -1,3 +1,3 @@
-name = "Corey Gray"
+name= "Corey Gray"
 echo $name
 
